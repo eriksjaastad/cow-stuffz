@@ -150,3 +150,4 @@ For issues or questions:
 - [ ] Scheduled scraping
 - [ ] Additional document types
 - [ ] Data validation and cleaning
+- [ ] Convert brand and mark to 8 or 16 bit for fast search
